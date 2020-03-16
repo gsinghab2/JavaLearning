@@ -1,2 +1,2 @@
 # JavaLearning
-Java Tasks
+Beginner Java learning 
